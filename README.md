@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SOC analyst<br>🤝 I’m looking for help with CyberSecuriy<br>🌱 I’m currently learning CyberSecuriy<br>💬 Ask me about CyberSecuriy<br>
+🔭 I’m currently working on SOC analyst<br>🌱 I’m currently learning CyberSecuriy<br>💬 Ask me about CyberSecuriy<br>
 
 
 ## 🌐 Socials:
