@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daoudabumadia975b6176) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daoudjamalabumadi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daoudabumadia975b6176) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daoudjamalabumadi@gmail.com)
+
 
 
 # 💻 Tech Stack:
